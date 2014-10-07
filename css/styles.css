@@ -443,6 +443,7 @@ h2::after {
 }
 .inner {
     padding-top: 170px;
+    width: 100% !important;
 }
 /* ==========================================================================
 Navigation
@@ -1208,5 +1209,45 @@ body,
 
 .st-effect-3.st-menu::after {
 	display: none;
+}
+
+
+/* ==========================================================================
+Bootstrap Modal
+========================================================================== */
+
+
+.popup{
+  width:900px;
+  height:600px;
+  background-color:#FFF;
+}
+
+/* ----- THIS NEEDS TO BE SET TO .popup WIDTH ------ */
+.modal-dialog{
+  width:900px !important;
+  margin:70px auto !important;
+}
+
+.popup-content{
+  padding-left:20px;
+  padding-top:15px;
+
+}
+
+.work{
+  width:200px;
+  height:auto;
+  color:#000;
+}
+
+.work:hover{
+  opacity:0.7;
+}
+
+.hover-test{
+  background-color:#00B800;
+  width:200px;
+  height:auto;
 }
 
