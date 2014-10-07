@@ -400,6 +400,9 @@ h2::after {
 .section-padding {
     padding: 90px 0 100px
 }
+.reduced{
+    padding: 90px 0 0 !important;
+}
 .dark-bg {
     background: #f3f5f8;
 }

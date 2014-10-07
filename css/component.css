@@ -11,6 +11,17 @@
 	margin: 10px 5px 0 5px;
 	vertical-align: top;
 	height: 250px;
+
+}
+
+.og-grid a{
+	background-color:#444;
+}
+
+.og-grid a:hover{
+	opacity:0.5;
+	transition:0.5s;
+
 }
 
 .og-grid li > a,
