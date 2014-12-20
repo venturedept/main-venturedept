@@ -753,7 +753,7 @@ Portfolio
 .overlay {
     display: block;
     position: absolute;
-    z-index: 99;
+    z-index: 20;
     background: rgba(20, 20, 20, 0.7);
     overflow: hidden;
     transition: all 0.5s;
