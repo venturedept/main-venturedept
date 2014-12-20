@@ -1,0 +1,277 @@
+/*!
+ * Start Bootstrap - Full Width Pics HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    margin-top: 40px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.image-bg-fluid-height,
+.image-bg-set-height {
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/*************** UO ARCHITECTURE AND ALLIED ARTS *************************************************************************************/
+
+
+.image-bg-fluid-height-aaa{
+    background: url('portfolio/img/aaa-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+/************** UO TEACHING AND LEARNING CENTER **************************************************************************************/
+
+
+.image-bg-fluid-height-tlc{
+    background: url('portfolio/img/duckshousing-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+.image-bg-set-height-tlc {
+    background: url('img/duckshousing-1.png') no-repeat center center scroll;
+    height: 300px;
+}
+/************** DUCKS HOUSING **************************************************************************************/
+
+
+.image-bg-fluid-height-duckshousing{
+    background: url('portfolio/img/duckshousing-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+.image-bg-set-height-duckshousing {
+    background: url('img/duckshousing-1.png') no-repeat center center scroll;
+    height: 300px;
+}
+
+/************ GLOBAL INTERACTIVE MAP ****************************************************************************************/
+
+
+.image-bg-fluid-height-globalmap{
+    background: url('img/alamo-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+.image-bg-set-height-globalmap {
+    background: url('img/alamo-bg.jpg') no-repeat center center scroll;
+    height: 300px;
+}
+
+/*************** UO PDX WHITESTAG *************************************************************************************/
+
+
+.image-bg-fluid-height-pdx{
+    background: url('portfolio/img/pdx-bg.jpg') no-repeat center bottom scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+/********** ALAMO BOWL ******************************************************************************************/
+
+
+.image-bg-fluid-height-alamo{
+    background: url('portfolio/img/alamo-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+/********** ASUO ******************************************************************************************/
+
+
+.image-bg-fluid-height-asuo{
+    background: url('portfolio/img/asuo-bg.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+
+.image-bg-set-height-asuo {
+    background: url('portfolio/img/asuo-2.png') no-repeat center center scroll;
+    height: 600px;
+}
+
+/*********** DUCKSTORE *****************************************************************************************/
+
+.image-bg-fluid-height-duckstore{
+    background: url('portfolio/img/duckstore-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+/*********** UNDIE RUN *****************************************************************************************/
+
+.image-bg-fluid-height-undierun{
+    background: url('portfolio/img/undierun-bg.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+
+/************* THIS OREGON LIFE ***************************************************************************************/
+
+
+.image-bg-fluid-height-tol{
+    background: url('portfolio/img/tol-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+.image-bg-set-height-tol {
+    background: url('img/alamo-bg.jpg') no-repeat center center scroll;
+    height: 300px;
+}
+
+
+/************* EMERGENCY RISK SERVICES ***************************************************************************************/
+
+
+.image-bg-fluid-height-ers{
+    background: url('portfolio/img/ers-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+/************ PINE PUBLIC RELATIONS ****************************************************************************************/
+
+
+.image-bg-fluid-height-pine{
+    background: url('portfolio/img/pine-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+.image-bg-set-height-pine {
+    background: url('portfolio/img/pine-bg.jpg') no-repeat center center scroll;
+    width: 100%;
+}
+
+
+/************ THE TEAM ****************************************************************************************/
+
+
+.image-bg-fluid-height-team {
+    background: url('portfolio/img/pine-bg.jpg') no-repeat center top scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+.image-bg-set-height-team {
+    background: url('portfolio/img/pine-bg.jpg') no-repeat center center scroll;
+    width: 100%;
+}
+
+/***************************************************************************************************/
+
+
+.img-center {
+	margin: 0 auto;
+}
+
+.navbar ul{
+display: inline-block;
+margin-left: 0 auto;
+}
+
+section {
+    padding: 100px 0 0 0;
+}
+.section-heading {
+    margin: 0;
+    font-size: 3em;
+    letter-spacing: 1px;
+    color: #242830;
+}
+.section-gallery {
+    margin: 50px;
+    margin-left: 0;
+}
+
+.section-gallery img {
+    color: #fff;
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 40px;
+}
+
+.section-lead {
+    margin: 0;
+    color: #B2D236;
+}
+
+.section-paragraph {
+    margin: 10px 0 0 0;
+
+}
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media(max-width:768px) {
+    section {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .section-heading {
+        font-size: 2em;
+    }
+}
